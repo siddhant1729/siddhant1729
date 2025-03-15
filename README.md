@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant</h1>
 <h3 align="center">A passionate programmer and open-source contributor</h3>
-## 💬 Quote of the Day  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 
 
