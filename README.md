@@ -17,25 +17,12 @@
 
 ## 🚀 About Me
 
-```cpp
-class Siddhant {
-private:
-    string currentFocus = "Competitive Programming & DSA";
-    vector<string> goals = {"ICPC", "GSoC", "Open Source"};
-    
-public:
-    void introduce() {
-        cout << "Passionate about solving complex problems\n";
-        cout << "Building efficient algorithms and contributing to open source\n";
-    }
-};
-```
-
 - 🎯 **Currently Working On:** Advanced C++ and Python projects
 - 📚 **Learning:** Data Structures, Algorithms, and System Design
 - 🏆 **Preparing For:** ICPC Regionals & Google Summer of Code
 - ⚡ **Fun Fact:** I can spend hours debugging code and still love it!
 - 💬 **Ask Me About:** Competitive Programming, DSA, C++, Python
+- 🌟 **Passion:** Solving complex problems and contributing to open source
 
 ---
 
